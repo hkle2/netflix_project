@@ -1,5 +1,5 @@
 # Netflix project
-### netflix film dataset analysis project
+### Netflix film dataset analysis project
 - Code
 - Data
 - Result
